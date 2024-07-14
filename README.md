@@ -34,3 +34,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+CREATE AND ADD THESE KEYS TO HAVE THE AUTH AND DB WORK
+
+PROJECT_ID=[REDACTED]
+API_KEY=[REDACTED]
+DATABASE_ID=[REDACTED]
+PATIENT_COLLECTION_ID=[REDACTED]
+DOCTOR_COLLECTION_ID=[REDACTED]
+APPOINTMENT_COLLECTION_ID=[REDACTED]
+NEXT_PUBLIC_BUCKET_ID=[REDACTED]
+NEXT_PUBLIC_ENDPOINT=https://cloud.appwrite.io/v1
+
+NEXT_PUBLIC_ADMIN_PASSKEY=[REDACTED]
